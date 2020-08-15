@@ -141,7 +141,7 @@ form .button{
 }
 @-moz-document url-prefix() {
   .links i{
-  margin-left: -50px;
+  margin-left: -50px !important;
 }
 }
 .links span{
